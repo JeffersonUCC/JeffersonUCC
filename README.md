@@ -14,9 +14,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="website" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" />][https://jeffersonding.com]
-[<img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" />][https://www.linkedin.com/in/j3of0]
-[<img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />][https://www.instagram.com/jefferson_ding]
+[<img align="left" alt="website" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" />](https://jeffersonding.com)
+[<img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" />](https://www.linkedin.com/in/j3of0)
+[<img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />](htps://www.instagram.com/jefferson_ding)
 
 <br />
 
