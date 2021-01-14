@@ -38,5 +38,5 @@
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"/>
     <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" width="70"/>
     <img src="https://cdn.svgporn.com/logos/aws.svg" width="50"/>
-    <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="50"/>
+    <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="30"/>
 </div> 
